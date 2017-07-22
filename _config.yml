@@ -17,15 +17,19 @@ baseurl: ""
 title: Yifei Wei
 
 # Short description of your site
-description: My personal site
+description: PhD Student in Computational Neuroscience
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  
-  Author's home: "http://deanattali.com"
+  Research: "research"
+  #Resources:
+  #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  #  - Learn markdown: "http://www.markdowntutorial.com/"
+  #  - GitHub Pages: "https://pages.github.com/"
+  # Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -40,28 +44,28 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Yifei Wei
   email: "weiyifei.cn@gmail.com"
   facebook: weiyifei.cn  # eg. daattali
   github: yifeiwei    # eg. daattali
-  twitter: yourname   # eg. daattali
-  reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
+  # twitter: yourname   # eg. daattali
+  # reddit: yourname    # eg. daattali
+  # google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
+  # linkedin: yourname  # eg. daattali
+  # xing: yourname      # eg. daattali
+  # stackoverflow: yourlink  # eg. "3943160/daattali"
+  # snapchat: yourname  # eg. daattali
+  # instagram: yourname # eg. daattali
+  # youtube: yourlink   # eg. user/daattali or channel/daattali
+  # spotify: yourname   # eg. daattali
+  # telephone: yourphone   # eg. +14159998888
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
+  rss: true
   facebook: true
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
   github: true
   reddit: false
@@ -87,10 +91,10 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "yifei"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-103008244-1"
 
 # Google Tag Manager ID
 #gtm: ""
