@@ -17,14 +17,17 @@ baseurl: ""
 title: Yifei Wei
 
 # Short description of your site
-description: PhD Student in Computational Neuroscience
+description: World Explorer
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Blog: "blog"
   Research: "research"
+  About Me: "aboutme"
+  Home: ""
+  
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
@@ -60,7 +63,7 @@ author:
   # youtube: yourlink   # eg. user/daattali or channel/daattali
   # spotify: yourname   # eg. daattali
   # telephone: yourphone   # eg. +14159998888
-
+  og_image: "/img/myphoto.jpg"
 # Select which links to show in the footer
 footer-links-active:
   rss: true
