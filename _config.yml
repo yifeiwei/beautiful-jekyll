@@ -24,6 +24,7 @@ description: World Explorer
 # List of links in the navigation bar
 navbar-links:
   Blog: "blog"
+  博客: "chinese_blog"
   Research: "research"
   About Me: "aboutme"
   Home: ""
