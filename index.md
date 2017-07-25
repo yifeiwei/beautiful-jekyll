@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yifei Wei
-subtitle: Fisheries & Stats Professor / R Enthusiast
+subtitle: World Explorer
 css: "/css/index.css"
 meta-title: "Yifei Wei"
 meta-description: "World Explorer"
