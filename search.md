@@ -1,25 +1,23 @@
 ---
-layout: default
-title: "Search yifeiwei.github.io"
-css: "/css/search.css"
+layout: page
+title: Search
+subtitle: Feeling lost? Look for things in my blog.
 ---
-# Search yifeiwei.github.io
 
-### Using the Amazing Google
+This blog uses [google search](http://google.com/cse).
 
-<div id="google-custom-search">
 <script>
   (function() {
-    var cx = '008668879081464374344:7obftvjulha';
+    var cx = '005036231896853323962:4xmqe7fiq7q';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
     gcse.async = true;
-    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-        '//www.google.com/cse/cse.js?cx=' + cx;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<gcse:searchbox></gcse:searchbox>
-<gcse:searchresults></gcse:searchresults>
-</div>
+<gcse:search></gcse:search>
+
+
+
