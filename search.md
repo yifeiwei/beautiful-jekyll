@@ -20,4 +20,3 @@ This blog uses [google search](http://google.com/cse).
 <gcse:search></gcse:search>
 
 
-
