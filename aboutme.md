@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: former PhD candidate in computational neuroscience
 ---
+![Yifei Wei](/img/yifei.jpg)
+My name is Yifei Wei. I currently live in Jerusalem, Israel where I was a PhD candidate in Computational neuroscience, which means I need to find another place to continue my study. I had a M.Sc in biomedical engineering and a BS in bioengineering focusing in material science. I am interested in machine learning and neural networks (both artificial and biologically plausible), you can find codes of most of my works in my [github](https://github.io/yifeiwei/). 
+- I am a music enthusiast.
+- I am a sport enthusiast.
+- I am a movie enthusiast.
+- I like do some trading myself
+- I am an economic and political news commentator 
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### What else do you need?
+Contact me at [here](mailto:weiyifei.cn@gmail.com).
