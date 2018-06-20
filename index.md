@@ -26,6 +26,3 @@ bigimg:
   - "/img/big-imgs/snow.jpg" : "Snow in Harrison NJ, 2015"
   - "/img/big-imgs/sunset.jpg" : "Sunset on road to Liberty airport, 2015"
 ---
-
-<div style="text-align:center"> 
-</div>
