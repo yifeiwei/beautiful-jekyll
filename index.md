@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yifei Wei
-subtitle: World Explorer
+subtitle: Roamer
 css: "/css/index.css"
 meta-title: "Yifei Wei"
 meta-description: "World Explorer"
@@ -28,6 +28,6 @@ bigimg:
 ---
 
 <div style="text-align:center">
-<strong>Quick Links:</strong> &nbsp;&nbsp; 
-<a href="www.google.com" role="button" class="btn btn-primary">Test1</a> 
+# <strong>Quick Links:</strong> &nbsp;&nbsp; 
+# <a href="www.google.com" role="button" class="btn btn-primary">Test1</a> 
 </div>
