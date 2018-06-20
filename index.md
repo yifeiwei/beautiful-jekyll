@@ -27,7 +27,5 @@ bigimg:
   - "/img/big-imgs/sunset.jpg" : "Sunset on road to Liberty airport, 2015"
 ---
 
-<div style="text-align:center">
-# <strong>Quick Links:</strong> &nbsp;&nbsp; 
-# <a href="www.google.com" role="button" class="btn btn-primary">Test1</a> 
+<div style="text-align:center"> 
 </div>
