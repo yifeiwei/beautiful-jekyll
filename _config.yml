@@ -107,7 +107,8 @@ disqus: "yifeiwei"
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-103008244-1"
 
-# Google Tag Manager ID
+# Google 
+Manager ID
 #gtm: ""
 
 # Facebook App ID
@@ -156,7 +157,7 @@ defaults:
       show-avatar: true
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
-link-tags: false
+link-tags: true
 
 # Exclude these files from production site
 exclude:
